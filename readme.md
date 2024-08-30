@@ -3,3 +3,4 @@
 *Funcionalidade 2
 *Funcionalidade 3
 *funcionalidade 4
+*funcionalidade 5
